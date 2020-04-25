@@ -1,4 +1,4 @@
-package com.learn.java;
+package com.learn.java.basics;
 
 public class Strings {
 
@@ -33,10 +33,10 @@ public class Strings {
 
 
         //String are immutable
-        //When we append to a string like about an actual new string is created
+        //When we append to a string like above ^^ an actual new string is created
 
 
-        //appending values we should use stringBuffer
+        //If we want to append values more efficient to use a stringBuffer
     }
 
 

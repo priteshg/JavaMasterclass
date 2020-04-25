@@ -1,4 +1,4 @@
-package com.learn.java;
+package com.learn.java.basics;
 
 public class CharAndBoolean {
 
